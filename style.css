@@ -1,15 +1,15 @@
 body {
 	margin-left: 100px;
-	background-color: white;
+	background-color: peachpuff;
 }
 
 h1 {
-	color: white;
+	color: lavenderblush;
 	front-family: "Open Sans", sans-serif;
 	front-size: 50px
 }
 
 p{
 	font-size: 25px;
-	color : blue;
+	color : white;
 }
